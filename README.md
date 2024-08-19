@@ -63,24 +63,4 @@ This app uses TensorFlow.js to apply real-time enhancements to the video stream.
 
 Users can share call IDs via email directly from the app interface. This feature uses EmailJS to send emails without a backend server.
 
-## 🔧 Configuration
 
-- `firebase.json`: Contains Firebase hosting configuration.
-- `model.json`: Defines the TensorFlow.js model for video enhancement.
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome! Feel free to check [issues page](https://github.com/sohitrharma/enhanced-video-conferencing-app/issues).
-
-## 📄 License
-
-This project is [MIT](https://choosealicense.com/licenses/mit/) licensed.
-
-
-
-## 🙏 Acknowledgements
-
-- [WebRTC](https://webrtc.org/)
-- [Firebase](https://firebase.google.com/)
-- [TensorFlow.js](https://www.tensorflow.org/js)
-- [EmailJS](https://www.emailjs.com/)
