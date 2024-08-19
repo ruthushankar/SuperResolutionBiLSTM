@@ -76,11 +76,7 @@ Contributions, issues, and feature requests are welcome! Feel free to check [iss
 
 This project is [MIT](https://choosealicense.com/licenses/mit/) licensed.
 
-## 👤 Author
 
-Rohit Sharma
-- GitHub: [@sohitrharma](https://github.com/sohitrharma)
-- LinkedIn: [@rohitsanjaysharma](https://linkedin.com/in/rohitsanjaysharma)
 
 ## 🙏 Acknowledgements
 
